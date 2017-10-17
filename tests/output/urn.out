@@ -1,0 +1,60 @@
+unreliNetPort = 9000
+rcvHost = localhost
+rcvPort = 9001
+data corruption rate = 0.4
+ack/nak corruption rate = 0.3
+data loss rate = 0.5
+ack/nak loss rate = 0.5
+min propagation delay = 0
+max propagation delay = 0
+1 packet(s) corrupted
+1 packet(s) corrupted
+2 packet(s) corrupted
+1 packet(s) dropped
+1 packet(s) dropped
+3 packet(s) corrupted
+2 packet(s) dropped
+3 packet(s) dropped
+4 packet(s) dropped
+5 packet(s) dropped
+6 packet(s) dropped
+7 packet(s) dropped
+4 packet(s) corrupted
+2 packet(s) corrupted
+5 packet(s) corrupted
+2 packet(s) dropped
+6 packet(s) corrupted
+3 packet(s) dropped
+7 packet(s) corrupted
+4 packet(s) dropped
+8 packet(s) dropped
+5 packet(s) dropped
+6 packet(s) dropped
+7 packet(s) dropped
+3 packet(s) corrupted
+4 packet(s) corrupted
+5 packet(s) corrupted
+9 packet(s) dropped
+8 packet(s) corrupted
+6 packet(s) corrupted
+9 packet(s) corrupted
+8 packet(s) dropped
+10 packet(s) dropped
+11 packet(s) dropped
+12 packet(s) dropped
+13 packet(s) dropped
+14 packet(s) dropped
+10 packet(s) corrupted
+15 packet(s) dropped
+11 packet(s) corrupted
+12 packet(s) corrupted
+16 packet(s) dropped
+17 packet(s) dropped
+18 packet(s) dropped
+13 packet(s) corrupted
+9 packet(s) dropped
+19 packet(s) dropped
+14 packet(s) corrupted
+7 packet(s) corrupted
+20 packet(s) dropped
+21 packet(s) dropped
