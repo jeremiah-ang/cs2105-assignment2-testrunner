@@ -1,5 +1,10 @@
 # cs2105-assignment2-testrunner
 
+## Download
+`git clone https://github.com/jeremiah-ang/cs2105-assignment2-testrunner`
+
+or Simply download the the `tests/` folder and `startChat.sh` file :)
+
 ## Create Test Cases
 #### test cases must be of the format
 `test#/test#.in`
